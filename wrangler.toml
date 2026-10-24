@@ -6,3 +6,4 @@ keep_vars = true
 [[kv_namespaces]]
 binding = "KV"
 id = "75c132b2643d48d0930f494ef38579bd"
+# Trigger Cloudflare Workers Git build
