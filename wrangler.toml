@@ -8,3 +8,4 @@ binding = "KV"
 id = "75c132b2643d48d0930f494ef38579bd"
 # Trigger Cloudflare Workers Git build
 # Redeploy 2026-10-25 to fix Error 1101
+# Rebuild on recreated worker 2026-10-25
